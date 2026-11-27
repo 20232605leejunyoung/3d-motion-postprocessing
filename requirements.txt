@@ -1,0 +1,14 @@
+# Python 3.10 (course environment.yml 기준)
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+protobuf==4.25.3
+pytubefix==10.2.1
+tqdm==4.67.1
+numpy<2
+pandas
+scipy
+matplotlib
+viser
+imageio
+imageio-ffmpeg
+python-pptx

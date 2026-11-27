@@ -1,0 +1,19 @@
+{
+  "refine_log": {
+    "missing_frames": 0,
+    "hampel_joint_frames": 223,
+    "speed_limit_joint_frames": 183,
+    "low_vis_joint_frames": 428
+  },
+  "provided_clamp": {
+    "clamped_joint_frames": 37,
+    "clamped_frame_pct": 6.7889908256880735,
+    "clamped_joints": [
+      29
+    ],
+    "max_clamp_depth_m": 0.03108668327331543
+  },
+  "frames": 545,
+  "fps": 30.0,
+  "cutoff_hz": 6.0
+}

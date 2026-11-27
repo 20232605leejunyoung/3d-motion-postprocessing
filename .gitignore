@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/processed/*_stage_*.npy
+# 원본 영상은 저작권 문제로 저장소에 포함하지 않음 (README의 링크 참고)
+data/raw_videos/*.mp4
+~$*.pptx
